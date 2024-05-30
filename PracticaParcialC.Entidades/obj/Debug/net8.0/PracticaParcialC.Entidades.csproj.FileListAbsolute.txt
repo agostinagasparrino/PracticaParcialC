@@ -1,0 +1,11 @@
+C:\Users\Agostina\source\repos\PracticaParcialC\PracticaParcialC.Entidades\bin\Debug\net8.0\PracticaParcialC.Entidades.deps.json
+C:\Users\Agostina\source\repos\PracticaParcialC\PracticaParcialC.Entidades\bin\Debug\net8.0\PracticaParcialC.Entidades.dll
+C:\Users\Agostina\source\repos\PracticaParcialC\PracticaParcialC.Entidades\bin\Debug\net8.0\PracticaParcialC.Entidades.pdb
+C:\Users\Agostina\source\repos\PracticaParcialC\PracticaParcialC.Entidades\obj\Debug\net8.0\PracticaParcialC.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agostina\source\repos\PracticaParcialC\PracticaParcialC.Entidades\obj\Debug\net8.0\PracticaParcialC.Entidades.AssemblyInfoInputs.cache
+C:\Users\Agostina\source\repos\PracticaParcialC\PracticaParcialC.Entidades\obj\Debug\net8.0\PracticaParcialC.Entidades.AssemblyInfo.cs
+C:\Users\Agostina\source\repos\PracticaParcialC\PracticaParcialC.Entidades\obj\Debug\net8.0\PracticaParcialC.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Agostina\source\repos\PracticaParcialC\PracticaParcialC.Entidades\obj\Debug\net8.0\PracticaParcialC.Entidades.dll
+C:\Users\Agostina\source\repos\PracticaParcialC\PracticaParcialC.Entidades\obj\Debug\net8.0\refint\PracticaParcialC.Entidades.dll
+C:\Users\Agostina\source\repos\PracticaParcialC\PracticaParcialC.Entidades\obj\Debug\net8.0\PracticaParcialC.Entidades.pdb
+C:\Users\Agostina\source\repos\PracticaParcialC\PracticaParcialC.Entidades\obj\Debug\net8.0\ref\PracticaParcialC.Entidades.dll

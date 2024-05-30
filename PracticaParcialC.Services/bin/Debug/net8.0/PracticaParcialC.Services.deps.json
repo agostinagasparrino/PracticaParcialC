@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PracticaParcialC.Services/1.0.0": {
+        "dependencies": {
+          "PracticaParcialC.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "PracticaParcialC.Services.dll": {}
+        }
+      },
+      "PracticaParcialC.Entidades/1.0.0": {
+        "runtime": {
+          "PracticaParcialC.Entidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PracticaParcialC.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PracticaParcialC.Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,36 @@
+﻿@model PracticaParcialC.Models.VentaModel
+@{
+    ViewData["Title"] = "Registrar venta";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Registrar venta</h1>
+</div>
+
+<div>
+    <form action="RegistrarVenta/RegistrarVenta" method="post" class="mt-2 mx-auto">
+        @Html.AntiForgeryToken()
+        <div class="d-flex justify-content-center">
+            @Html.LabelFor(model => model.Cliente, new { @class = "col-2"})
+            @Html.TextBoxFor(model => model.Cliente, new { @class = "col-2", type = "text" })
+            @Html.ValidationMessageFor(model => model.Cliente, "", new { @class = "text-danger" })
+        </div>
+        <div class="d-flex justify-content-center">
+            @Html.LabelFor(model => model.CantidadVendida, new { @class = "col-2" })
+            @Html.TextBoxFor(model => model.CantidadVendida, new { @class = "col-2", type = "number" })
+            @Html.ValidationMessageFor(model => model.CantidadVendida, "", new { @class = "text-danger" })
+        </div>
+        <div class="d-flex justify-content-center">
+            @Html.LabelFor(model => model.PrecioUnitario, new { @class = "col-2" })
+            @Html.TextBoxFor(model => model.PrecioUnitario, new { @class = "col-2", type = "number" })
+            @Html.ValidationMessageFor(model => model.PrecioUnitario, "", new { @class = "text-danger" })
+        </div>
+        <div class="mt-2 text-center">
+            <button type="submit" class="btn btn-secondary">Registrar venta</button>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

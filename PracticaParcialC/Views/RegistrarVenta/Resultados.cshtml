@@ -1,0 +1,43 @@
+﻿@model IEnumerable<PracticaParcialC.Models.VentaModel>
+@{
+    ViewData["Title"] = "Resultados";
+}
+
+<h2>Resultados</h2>
+<table class="table-bordered rounded-pill table">
+    <thead>
+        <tr>
+            <th border="1">Id Venta</th>
+            <th border="1">Cliente</th>
+            <th border="1">Cantidad vendida</th>
+            <th border="1">Precio unitario</th>
+            <th border="1">Total venta</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var resultado in Model)
+        {
+            <tr>
+                <td>@resultado.IdVenta</td>
+                <td>@resultado.Cliente</td>
+                <td>@resultado.CantidadVendida</td>
+                <td>@resultado.PrecioUnitario</td>
+                <td>@resultado.TotalVenta</td>
+            </tr>
+        }
+    </tbody>
+
+</table>
+
+    <div class="mt-2 d-flex justify-content-end container">
+    <button type="button" id="myButton" class="btn btn-primary">Registrar nueva venta</button>
+    </div>
+
+    <a asp-controller="RegistrarVenta" asp-action="RegistrarVenta" id="myLink" style="display: none;"></a>
+
+
+    <script>
+        document.getElementById('myButton').addEventListener('click', function () {
+            document.getElementById('myLink').click();
+        });
+    </script>

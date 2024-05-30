@@ -1,0 +1,15 @@
+C:\Users\Agostina\source\repos\PracticaParcialC\PracticaParcialC.Services\bin\Debug\net8.0\PracticaParcialC.Services.deps.json
+C:\Users\Agostina\source\repos\PracticaParcialC\PracticaParcialC.Services\bin\Debug\net8.0\PracticaParcialC.Services.dll
+C:\Users\Agostina\source\repos\PracticaParcialC\PracticaParcialC.Services\bin\Debug\net8.0\PracticaParcialC.Services.pdb
+C:\Users\Agostina\source\repos\PracticaParcialC\PracticaParcialC.Services\bin\Debug\net8.0\PracticaParcialC.Entidades.dll
+C:\Users\Agostina\source\repos\PracticaParcialC\PracticaParcialC.Services\bin\Debug\net8.0\PracticaParcialC.Entidades.pdb
+C:\Users\Agostina\source\repos\PracticaParcialC\PracticaParcialC.Services\obj\Debug\net8.0\PracticaParcialC.Services.csproj.AssemblyReference.cache
+C:\Users\Agostina\source\repos\PracticaParcialC\PracticaParcialC.Services\obj\Debug\net8.0\PracticaParcialC.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agostina\source\repos\PracticaParcialC\PracticaParcialC.Services\obj\Debug\net8.0\PracticaParcialC.Services.AssemblyInfoInputs.cache
+C:\Users\Agostina\source\repos\PracticaParcialC\PracticaParcialC.Services\obj\Debug\net8.0\PracticaParcialC.Services.AssemblyInfo.cs
+C:\Users\Agostina\source\repos\PracticaParcialC\PracticaParcialC.Services\obj\Debug\net8.0\PracticaParcialC.Services.csproj.CoreCompileInputs.cache
+C:\Users\Agostina\source\repos\PracticaParcialC\PracticaParcialC.Services\obj\Debug\net8.0\Practica.A8F38489.Up2Date
+C:\Users\Agostina\source\repos\PracticaParcialC\PracticaParcialC.Services\obj\Debug\net8.0\PracticaParcialC.Services.dll
+C:\Users\Agostina\source\repos\PracticaParcialC\PracticaParcialC.Services\obj\Debug\net8.0\refint\PracticaParcialC.Services.dll
+C:\Users\Agostina\source\repos\PracticaParcialC\PracticaParcialC.Services\obj\Debug\net8.0\PracticaParcialC.Services.pdb
+C:\Users\Agostina\source\repos\PracticaParcialC\PracticaParcialC.Services\obj\Debug\net8.0\ref\PracticaParcialC.Services.dll
